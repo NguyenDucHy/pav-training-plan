@@ -30,7 +30,7 @@
   - [W3Schools - MySQL tutorial](https://www.w3schools.com/mySQl/default.asp)
 
 ## 4.Exercises
-  1. Project 1: Tasks Management
+  ### 1. Project 1: Tasks Management
   - Tech: PHP, MYSQL
   - Requirements: 
       - Create | Insert | Update | Delete a task
