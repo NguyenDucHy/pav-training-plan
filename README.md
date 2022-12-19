@@ -33,7 +33,11 @@
   1. Create a project Tasks Management
   - Tech: PHP, MYSQL
   - Requirements: Create Insert Update Delete a task
-  - Task specs: title, description, status, deleted.
+  - Task specs: 
+   - title: title of task
+   - description: description of task
+   - status: status of task. Ex: `new/inprogress/done`
+   - deleted: flag deleted
 
 ## Advanced Level
 -  [MVC Framework Introduction](https://www.geeksforgeeks.org/mvc-framework-introduction/)
