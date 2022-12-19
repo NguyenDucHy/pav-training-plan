@@ -1,5 +1,7 @@
 # pav-training-plan
 
+## Basic Level
+
 ## 1. Frontend
 
 ### 1. html
@@ -26,3 +28,6 @@
 ## 3. Database
 ### 1. mysql
   - [W3Schools - MySQL tutorial](https://www.w3schools.com/mySQl/default.asp)
+
+## Advanced Level
+... Doing
