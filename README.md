@@ -33,13 +33,13 @@
   1. Create a project Tasks Management
   - Tech: PHP, MYSQL
   - Requirements: 
-      - Create |Insert | Update | Delete a task
+      - Create | Insert | Update | Delete a task
       - List all tasks
-      - Search Task with title | description | status | delelted
+      - Search Task with condition: title | description | status | deleted
   - Task specs: 
       - title: title of task
       - description: description of task
-      - status: status of task. Ex: `new/inprogress/done`
+      - status: status of task. Ex: `new | inprogress | done`
       - deleted: flag deleted
 
 ## Advanced Level
