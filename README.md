@@ -29,5 +29,11 @@
 ### 3.1. mysql
   - [W3Schools - MySQL tutorial](https://www.w3schools.com/mySQl/default.asp)
 
+### 4.Exercises
+  1. Create a project Tasks Management
+  - Tech: PHP, MYSQL
+  - Requirements: Create Insert Update Delete a task
+  - Task specs: title, description, status, deleted.
+
 ## Advanced Level
 -  [MVC Framework Introduction](https://www.geeksforgeeks.org/mvc-framework-introduction/)
