@@ -24,3 +24,5 @@
   - [Learn PHP - W3Schools](https://www.w3schools.com/php/)
 
 ## 3. Database
+### 1. mysql
+  - [W3Schools - MySQL tutorial](https://www.w3schools.com/mySQl/default.asp)
