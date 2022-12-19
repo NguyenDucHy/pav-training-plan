@@ -36,6 +36,7 @@
       - Create | Insert | Update | Delete a task
       - List all tasks
       - Search Task with condition: title | description | status | deleted
+      - [♫ Advanced] Search Task with Ajax
   - Task specs: 
       - title: title of task
       - description: description of task
